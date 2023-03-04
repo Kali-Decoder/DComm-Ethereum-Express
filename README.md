@@ -9,9 +9,8 @@ Creating a platform that offers cricket fans a seamless and secure shopping expe
 
 
 
-## Technology
+## Technology Used
 
-This demo uses:
 
 - Blockchain :- DComm Blockchain EVM Compatible (Goldcoast Action Chain) (Smart Contract Deployment)
 - Solidity:- Writing Smart Contracts
