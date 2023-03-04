@@ -21,7 +21,7 @@ Creating a platform that offers cricket fans a seamless and secure shopping expe
     transaction cost :	5304277 gas
     Contract Address : 	0xDD0570Edb234A1753e5aD3f8Be8fa7515cdA1C12
     Explorer URL :	"https://explorer.dcomm.network/evmaddress/0xDD0570Edb234A1753e5aD3f8Be8fa7515cdA1C12/network=goldcoast"
-    Transaction on DComm : "https://explorer.dcomm.network/evmtx/0x3edd9c2d8460cae36c847bbfc987d477968b2b4f1967b6e46cd472357dc02c52/network=goldcoast"
+    [Transaction on DComm :] (https://explorer.dcomm.network/evmtx/0x3edd9c2d8460cae36c847bbfc987d477968b2b4f1967b6e46cd472357dc02c52/network=goldcoast)
     
     ```
 
