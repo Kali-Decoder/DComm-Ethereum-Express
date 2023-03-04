@@ -15,7 +15,7 @@ Creating a platform that offers cricket fans a seamless and secure shopping expe
 - Filters on Market place is ready ( Accessories , Bats/Balls  , Cricket Kit , Cricket Apparels etc).
 - Single market Product Data with its properties is accessible.
 -  Smart Contracts of market place are ready and Deployed on Polygon.
-   - #Functions Implemented on Smart Contract 
+   - # Functions Implemented on Smart Contract 
      - createProduct()
      - updateProduct()
      - deleteProduct()
@@ -64,18 +64,21 @@ Creating a platform that offers cricket fans a seamless and secure shopping expe
 
 <img width="1470" alt="Screenshot 2023-03-01 at 2 55 11 PM" src="https://user-images.githubusercontent.com/82640789/222097999-0d1b3b3d-589d-4642-ab1d-432bd0f3d911.png">
 
-## Running the demo
+## Contract Deployment on DComm Chain 
 
-To run the demo follow these steps:
-
-1. Clone the project with the code below.
+1. Deployment Details 
     ```sh
 
-    # Make sure you have the above prerequisites installed already!
-    git clone "https://github.com/Kali-Decoder/Ethereum-Express-ICC.git"
-    cd  # Navigate to the new folder.
-    yarn install # Installs all the dependencies.
-    yarn start 
+    ####status	true Transaction mined and execution succeed
+    Network: Goldcoast
+    transaction hash: 	0x24586edcd9c95af830a6d154a9d1c8d9ce3aafb246db2bed45b24427c2a631fc
+    from :	0xcfa038455b54714821f291814071161c9870B891
+    to :	EthereumExpress.(constructor)
+    gas :	5304277 gas
+    transaction cost :	5304277 gas
+    Contract Address : 	0xDD0570Edb234A1753e5aD3f8Be8fa7515cdA1C12
+    Explorer URL :	"https://explorer.dcomm.network/evmaddress/0xDD0570Edb234A1753e5aD3f8Be8fa7515cdA1C12/network=goldcoast"
+    
     ```
 
 <br/>
