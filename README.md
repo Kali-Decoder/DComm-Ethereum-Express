@@ -8,6 +8,26 @@ Decentralised Community (DComm) has the technology,  infrastructure and communit
 Creating a platform that offers cricket fans a seamless and secure shopping experience is the idea behind the proposed e-commerce blockchain website for cricket merchandise. To ensure efficiency, security, and transparency in its transactions, the platform will make use of the advantages of blockchain technology. Customers will feel secure making genuine cricket merchandise purchases knowing that their financial and personal information is secure. The platform will also offer real-time shipment tracking and get rid of the possibility of fraud. The e-commerce website seeks to revolutionize the existing cricket-related e-commerce market by utilizing blockchain technology.
 
 
+# Status of the Project :- 
+- Wallet connection is ready and Multiple wallet connection is also ready to access.
+- Marketplace is ready .
+- QR-Code code implementation is done .
+- Filters on Market place is ready ( Accessories , Bats/Balls  , Cricket Kit , Cricket Apparels etc).
+- Single market Product Data with its properties is accessible.
+-  Smart Contracts of market place are ready and Deployed on Polygon.
+   - #Functions Implemented on Smart Contract 
+     - createProduct()
+     - updateProduct()
+     - deleteProduct()
+     - createOrder()
+     - loadProducts()
+     - loadProduct()
+     - loadOrders()
+     - delieverOrder()
+     - cancelOrder()
+     - Real Time Status Function is Ready
+
+- All contract Function are ready but yet to be connected by the help of ethers -js you can verify in contracts directory .
 
 ## Technology Used
 
@@ -32,6 +52,9 @@ Creating a platform that offers cricket fans a seamless and secure shopping expe
 ## Multiple Wallet Connection 
 <img width="1469" alt="Screenshot 2023-03-02 at 12 41 48 AM" src="https://user-images.githubusercontent.com/82640789/222241208-89749c78-b817-4ef6-ba30-1f781d04f86c.png">
 
+## Product Status
+<img width="1467" alt="Screenshot 2023-03-02 at 12 53 59 PM" src="https://user-images.githubusercontent.com/82640789/222407923-7cfba87c-7c34-484e-8bb6-752c381a97ed.png">
+
 <br/>
 <img width="1459" alt="Screenshot 2023-03-01 at 10 08 21 AM" src="https://user-images.githubusercontent.com/82640789/222046348-5a1850ac-c534-44f4-8ccf-9dee255c291e.png">
 
@@ -52,9 +75,11 @@ To run the demo follow these steps:
     git clone "https://github.com/Kali-Decoder/Ethereum-Express-ICC.git"
     cd  # Navigate to the new folder.
     yarn install # Installs all the dependencies.
-    yarn start
+    yarn start 
     ```
 
 <br/>
+
+
 
 
