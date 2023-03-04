@@ -7,6 +7,8 @@ Decentralised Community (DComm) has the technology,  infrastructure and communit
 
 Creating a platform that offers cricket fans a seamless and secure shopping experience is the idea behind the proposed e-commerce blockchain website for cricket merchandise. To ensure efficiency, security, and transparency in its transactions, the platform will make use of the advantages of blockchain technology. Customers will feel secure making genuine cricket merchandise purchases knowing that their financial and personal information is secure. The platform will also offer real-time shipment tracking and get rid of the possibility of fraud. The e-commerce website seeks to revolutionize the existing cricket-related e-commerce market by utilizing blockchain technology.
 
+
+## Contract Deployment on DComm Chain 
 1. Deployment Details 
     ```sh
 
@@ -77,7 +79,7 @@ Creating a platform that offers cricket fans a seamless and secure shopping expe
 
 <img width="1470" alt="Screenshot 2023-03-01 at 2 55 11 PM" src="https://user-images.githubusercontent.com/82640789/222097999-0d1b3b3d-589d-4642-ab1d-432bd0f3d911.png">
 
-## Contract Deployment on DComm Chain 
+
 
 
 
