@@ -7,6 +7,20 @@ Decentralised Community (DComm) has the technology,  infrastructure and communit
 
 Creating a platform that offers cricket fans a seamless and secure shopping experience is the idea behind the proposed e-commerce blockchain website for cricket merchandise. To ensure efficiency, security, and transparency in its transactions, the platform will make use of the advantages of blockchain technology. Customers will feel secure making genuine cricket merchandise purchases knowing that their financial and personal information is secure. The platform will also offer real-time shipment tracking and get rid of the possibility of fraud. The e-commerce website seeks to revolutionize the existing cricket-related e-commerce market by utilizing blockchain technology.
 
+1. Deployment Details 
+    ```sh
+
+    ####status	true Transaction mined and execution succeed
+    Network: Goldcoast
+    transaction hash: 	0x24586edcd9c95af830a6d154a9d1c8d9ce3aafb246db2bed45b24427c2a631fc
+    from :	0xcfa038455b54714821f291814071161c9870B891
+    to :	EthereumExpress.(constructor)
+    gas :	5304277 gas
+    transaction cost :	5304277 gas
+    Contract Address : 	0xDD0570Edb234A1753e5aD3f8Be8fa7515cdA1C12
+    Explorer URL :	"https://explorer.dcomm.network/evmaddress/0xDD0570Edb234A1753e5aD3f8Be8fa7515cdA1C12/network=goldcoast"
+    
+    ```
 
 # Status of the Project :- 
 - Wallet connection is ready and Multiple wallet connection is also ready to access.
@@ -66,20 +80,7 @@ Creating a platform that offers cricket fans a seamless and secure shopping expe
 
 ## Contract Deployment on DComm Chain 
 
-1. Deployment Details 
-    ```sh
 
-    ####status	true Transaction mined and execution succeed
-    Network: Goldcoast
-    transaction hash: 	0x24586edcd9c95af830a6d154a9d1c8d9ce3aafb246db2bed45b24427c2a631fc
-    from :	0xcfa038455b54714821f291814071161c9870B891
-    to :	EthereumExpress.(constructor)
-    gas :	5304277 gas
-    transaction cost :	5304277 gas
-    Contract Address : 	0xDD0570Edb234A1753e5aD3f8Be8fa7515cdA1C12
-    Explorer URL :	"https://explorer.dcomm.network/evmaddress/0xDD0570Edb234A1753e5aD3f8Be8fa7515cdA1C12/network=goldcoast"
-    
-    ```
 
 <br/>
 
