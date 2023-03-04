@@ -13,18 +13,18 @@ Creating a platform that offers cricket fans a seamless and secure shopping expe
 
 This demo uses:
 
-- Blockchain:- Polygon Test-net Mumbai / BNB Smart Chain (Smart Contract Deployment)
-- Solidity:- Writing Smart Contracts 
-- Truffle/Hardhat (mocha and chai library ):-  for smart contract Deployment, Testing, and Debugging Solidity smart contracts.
-- Node-Js:- for Server, Rest APIs for request and post.
-- Web3Js for connecting users- UI to Blockchain-backend.
-- Alchemy or Infura:- to make your computer a node on Blockchain.
-- Metamask:- For accomplished transactions on the blockchain.
-- IPFS(interplanetary file system ) for storing transactions/Meta-Data(eg. Images and Json File) in a Decentralised way.
-- Reactjs & Nextjs as frontend frameworks for the user interface.
-- Oracle:- Used To Fetch Data from off-chain to on-chain
-- Mongo-DB:- We can’t store all to blockchain so we need a database for essential information other than transactions.
-- Hyper-ledger implementation for higher Phase of the Supply chain (implement level order blockchain).
+- Blockchain :- DComm Blockchain EVM Compatible (Goldcoast Action Chain) (Smart Contract Deployment)
+- Solidity:- Writing Smart Contracts
+- Truffle/Hardhat (mocha and chai library ) :- for smart contract Deployment, Testing, and Debugging Solidity smart contracts.
+- Node-Js :- for Server , Rest apis for request and post .
+- Web3Js :- for connecting users-ui to Blockchain-backend.
+- Alchemy or Infura :- to make your computer a node on Blockchain.
+- Metamask :- For accomplished transactions on blockchain.
+- IPFS(interplanetary file system ) for storing transactions/ Meta-Data (eg. Images and Json File) in a Decentralised way.
+- Reactjs & Nextjs as frontend framework for user interface.
+- Oracle :- Used To Fetch Data from off-chain to on-chain
+- Mongo-DB:- We can’t store all to blockchain so we need a database for essential information other then transaction .
+- Hyper-ledger implementation for higher Phase of Supply chain (implement level order blockchain) (Admin Level Organisation)
 
 ## User Interface
 
