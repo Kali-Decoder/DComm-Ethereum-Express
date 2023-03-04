@@ -41,7 +41,6 @@ Creating a platform that offers cricket fans a seamless and secure shopping expe
      - cancelOrder()
      - Real Time Status Function is Ready
 
-- All contract Function are ready but yet to be connected by the help of ethers -js you can verify in contracts directory .
 
 ## Technology Used
 
