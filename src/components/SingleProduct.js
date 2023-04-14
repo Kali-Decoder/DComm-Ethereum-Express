@@ -1,5 +1,5 @@
 import React from "react";
-import { useParams } from "react-router-dom";
+import { NavLink, useParams } from "react-router-dom";
 import { dummyData } from "../utils/dummyData";
 function SingleProduct() {
   let { id } = useParams();
@@ -186,7 +186,7 @@ function SingleProduct() {
             focus:bg-blue-900 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-900 
             active:shadow-lg transition duration-150 ease-in-out"
               >
-                Order Placed
+                <NavLink to="/shopping/3/status">Track Order</NavLink>
               </button>
             </div>
           </div>
